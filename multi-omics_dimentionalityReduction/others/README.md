@@ -1,2 +1,3 @@
 # SEE_bio
-Research projects
+
+Resources from other researchers
